@@ -10,3 +10,10 @@
 
 ## About me
 I'm currently a University Student of Technological Univesity Mandalay, studying Mechatronics Engineering. For now, I'm planning to apply Msc Robotics Degree in Sheffield University through Pre-Master Program at International College of Sheffield. 
+
+My ongoing skillsets are as follows;
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|  Python             |
+|     2|    C++           |
+|     3|        HTML, CSS       |
