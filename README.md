@@ -9,7 +9,7 @@
 </picture>
 
 ## About me
-I'm currently a university student of **Technological Univesity Mandalay**, studying ***Mechatronics Engineering***. For now, I'm planning to apply ***Msc Robotics*** degree in **Sheffield University** through <ins>Pre-Master Program</ins> at **International College of Sheffield**. 
+I'm currently a university student of **Technological Univesity Mandalay**, studying ***Mechatronics Engineering***. For now, I'm planning to apply ***Msc Robotics*** degree in **Sheffield University** through <ins>_Pre-Master Program_</ins> at **International College of Sheffield**. 
 
 My ongoing skillsets are as follows;
 | Rank | LANGUAGES |
