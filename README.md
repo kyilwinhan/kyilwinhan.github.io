@@ -17,3 +17,6 @@ My ongoing skillsets are as follows;
 |     1|  Python             |
 |     2|    C++           |
 |     3|        HTML, CSS       |
+
+As a future career, I'd like to do as a 
+> Robotic Software Engineer
