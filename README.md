@@ -9,7 +9,7 @@
 </picture>
 
 ## About me
-I'm currently a University Student of Technological Univesity Mandalay, studying Mechatronics Engineering. For now, I'm planning to apply Msc Robotics Degree in Sheffield University through Pre-Master Program at International College of Sheffield. 
+I'm currently a university student of **Technological Univesity Mandalay**, studying ***Mechatronics Engineering***. For now, I'm planning to apply ***Msc Robotics*** degree in **Sheffield University** through <ins>Pre-Master Program</ins> at **International College of Sheffield**. 
 
 My ongoing skillsets are as follows;
 | Rank | LANGUAGES |
